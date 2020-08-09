@@ -4,7 +4,7 @@
 
 🎈 [**qqq.ninja**](https://qqq.ninja)
 
-[![Quentin](images/me.jpg)](https://github.com/qdm12)
+[![Quentin](https://github.com/qdm12/qdm12/raw/master/images/me.jpg)](https://github.com/qdm12)
 
 I enjoy and master
 
