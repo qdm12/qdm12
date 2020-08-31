@@ -1,18 +1,18 @@
-# Quentin McGaw
+# Quentin McGaw ![Visitors count](https://visitor-badge.laobi.icu/badge?page_id=qdm12.qdm12)
 
 👋 I'm Quentin, 25, trying to be the best web ninja 🦸‍♂️ out there!
 
 🎈 [**qqq.ninja**](https://qqq.ninja)
 
-[![Quentin](https://github.com/qdm12/qdm12/raw/master/images/me.jpg)](https://github.com/qdm12)
+![Quentin's Github stats](https://github-readme-stats.vercel.app/api?username=qdm12&show_icons=true&theme=dracula)
 
 I enjoy and master
 
-- Go for 🗜
+- Go for backends & clis
 - React + Typescript for 🌐
 - Flutter (Dart) for 📱 + 🖱
 
-And I enjoy doig developer, QA, tester, designer, operator and cleaner.
+And I enjoy doing developer, QA, tester, designer, operator and cleaner.
 
 ## Maniac things
 
