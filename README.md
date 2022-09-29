@@ -45,6 +45,7 @@ I am not some psycho-maniac, except for a few points...
 
 | Where | Dates | What |
 | --- | --- | --- |
+| ChainSafe, Toronto | Since Oct'21 | Go in web3 (Polkadot) |
 | DistrictM, Montreal | Since Jun'20 | Go in Ad tech |
 | USA Today network (SweetIQ), Montreal | Feb-Jun'20 | ReactJS in newspapers |
 | SweetIQ, Montreal | Sep'19 to Feb'20 | Go in places listing |
