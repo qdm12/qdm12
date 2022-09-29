@@ -1,6 +1,6 @@
 # Quentin McGaw ![Visitors count](https://visitor-badge.laobi.icu/badge?page_id=qdm12.qdm12)
 
-👋 I'm Quentin, 25, trying to be the best web ninja 🦸‍♂️ out there!
+👋 I'm Quentin, 27, trying to be the best web ninja 🦸‍♂️ out there!
 
 🎈 [**qqq.ninja**](https://qqq.ninja)
 
@@ -13,6 +13,12 @@ I enjoy and master
 - Flutter (Dart) for 📱 + 🖱
 
 And I enjoy doing developer, QA, tester, designer, operator and cleaner.
+
+## Donations
+
+- Sponsor me on [github.com/sponsors/qdm12](https://github.com/sponsors/qdm12)
+- Donate to [paypal.me/qmcgaw](https://www.paypal.me/qmcgaw)
+- Donate to Kusama address: `5GxLYcBSsZTdMjbPEQGhJU4LkXFWTzeUnV1sysa467hSkEa8`
 
 ## Maniac things
 
