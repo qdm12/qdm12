@@ -1,5 +1,7 @@
 # Quentin McGaw ![Visitors count](https://visitor-badge.laobi.icu/badge?page_id=qdm12.qdm12)
 
+`quentin.mcgaw@gmail.com`
+
 👋 I'm Quentin, 28, a **software engineer** passionate about Go, cybersecurity, and familiar with React, Flutter and Rust.
 
 ![Quentin's Github stats](https://github-readme-stats.vercel.app/api?username=qdm12&show_icons=true&theme=dracula)
